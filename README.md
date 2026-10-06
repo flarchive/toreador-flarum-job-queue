@@ -2,14 +2,13 @@
 
 > **Read-only archive of released versions of toreador/flarum-job-queue.** Not for installation: use [Packagist](https://packagist.org/packages/toreador/flarum-job-queue) or the [upstream repository](https://github.com/toreador34/flarum-job-queue).
 
-**2** versions archived · Latest: [`v1.0.6`](https://github.com/flarchive/toreador-flarum-job-queue/tree/archive/v1.0.6) · License: `MIT` · Flarum: `^1.2.0`
+**0** versions archived · Latest: [`v1.0.7`](https://github.com/flarchive/toreador-flarum-job-queue/tree/archive/v1.0.7) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v1.0.5` | 2026-10-05 | `^1.2.0` | [Browse](https://github.com/flarchive/toreador-flarum-job-queue/tree/archive/v1.0.5) |
-| `v1.0.6` | 2026-10-06 | `^1.2.0` | [Browse](https://github.com/flarchive/toreador-flarum-job-queue/tree/archive/v1.0.6) |
+| — | — | — | — |
 
 Catalog entry: [packages/toreador-flarum-job-queue.json](https://github.com/flarchive/archive-index/blob/main/packages/toreador-flarum-job-queue.json)
 
